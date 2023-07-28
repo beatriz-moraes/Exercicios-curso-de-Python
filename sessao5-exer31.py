@@ -1,7 +1,7 @@
 '''
 SESSÃO 5 - Estruturas lógica e condicionais em python
 
-25 - Calcule as raízes da equação do segundo grau.
+31 - Calcule as raízes da equação do segundo grau.
 
 Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique
 e mostre qual a classificação dessa pesssoa.
